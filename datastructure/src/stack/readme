@@ -1,0 +1,13 @@
+Stack - abstract data type.
+can be implemented with -> Arrays
+						-> Linked lists
+	LIFO structure,
+	operations -> push() 
+		       -> pop()  // remove and return last item
+		       -> peek()		// just return last item
+		       
+APPLICATIONS - 
+1. in stack-oriented programming languages.
+2. graph algorithms like depth first search
+3. finding strongly connected graph components in a given graph.
+
